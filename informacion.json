@@ -1,12 +1,14 @@
 {
-	"prefijo": " . " ,
-	"BotControlador" : " ☠⚔༒ĹĚGĨŐŃ༒ĤȄȐϺǺŃÐÀÐ ÒƑČ༒⚔ " ,
-        "NumeroBot" : " 51995386439 " ,
-	"CoCreador" : " DeAtH " ,
-	"VCardX" : " Desconocido " ,
-	"VCardY" : " Desconocido " ,
-	"MyPais" : " Desconocido " ,
-	"NombreBot" : " ☠⚔༒ĹĚGĨŐŃ༒ĤȄȐϺǺŃÐÀÐ ÒƑČ༒⚔ " ,
-	"LimiteEnGrupos" : " 2 " ,
-	"LimiteComandos" : " 666999 " ,
+	"prefijo": ".",
+	"BotControlador": "☠⚔༒ĹĚGĨŐŃ༒ĤȄȐϺǺŃÐÀÐ ÒƑČ༒⚔",
+        "NumeroBot": "51995386439",
+	"CoCreador": "DrAtH",
+	"VCardX": "UnKnow",
+	"VCardY": "UnKnow",
+	"MyPais": "51",
+	"NombreBot": "☠⚔༒ĹĚGĨŐŃ༒ĤȄȐϺǺŃÐÀÐ ÒƑČ༒⚔",
+	"LimiteEnGrupos": "2",
+	"LimiteComandos": "666999",
+	"TusRedesSociales": "."
 }
+
